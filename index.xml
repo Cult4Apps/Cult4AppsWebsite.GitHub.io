@@ -1,68 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CultForApps</title>
-    <link>https://www.cultforapps.com/</link>
-    <description>Recent content on CultForApps</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.cultforapps.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Switching to calendar-based versioning</title>
-      <link>https://www.cultforapps.com/blog/2025.07.13_switching-to-calendar-based-versioning/</link>
-      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/blog/2025.07.13_switching-to-calendar-based-versioning/</guid>
-      <description>&lt;p&gt;For years, I used semantic versioning (1.0.0, 1.1.0, 2.0.0, ..etc.) as the default way to track app releases. It made sense: major for breaking changes, minor for new features, patch for fixes. But the more I built and shipped across my career at multiple companies and more recently as an indie developer, the more I found myself questioning what those numbers were really telling me, or anyone else.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why I still choose native iOS development in 2025</title>
-      <link>https://www.cultforapps.com/blog/2025.04.03_why-native-ios-2025/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/blog/2025.04.03_why-native-ios-2025/</guid>
-      <description>&lt;p&gt;In 2025, native iOS development often feels like a deliberate choice rather than the default. With the rise of cross-platform tools like Flutter, React Native, and Kotlin Multiplatform, engineering teams are under increasing pressure to &amp;ldquo;build once, run everywhere.&amp;rdquo; And while that pitch has appeal especially from a business perspective, I continue to invest deeply in native iOS development and here’s why.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>https://www.cultforapps.com/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/elements/</guid>
-      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elena Escalada</title>
-      <link>https://www.cultforapps.com/authors/elena-escalada/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/authors/elena-escalada/</guid>
-      <description>&lt;p style=&#34;margin-bottom: 20px;&#34;&gt;&#xA;Graphic Designer, with extensive experience in brand identity, user interface design, and digital visuals, combining creativity and functionality to craft impactful designs.&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://www.cultforapps.com/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/privacy-policy/</guid>
-      <description>&lt;h4 id=&#34;our-commitment-to-privacy&#34;&gt;Our commitment to privacy&lt;/h4&gt;&#xA;&lt;p&gt;At CultForApps, we take your privacy seriously. Unlike some companies that rely on selling user data, we firmly believe in protecting your information and will never engage in such practices.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ready to build your next project with Hugo?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tom Estelrich</title>
-      <link>https://www.cultforapps.com/authors/tom-estelrich/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cultforapps.com/authors/tom-estelrich/</guid>
-      <description>&lt;p style=&#34;margin-bottom: 20px;&#34;&gt;&#xA;Software Engineer, based in Switzerland and specializing in Apple platforms, with a strong background in building high-performance applications and scalable solutions.&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What Users Are Saying About Hugoplate</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CultForApps</title><link>https://www.cultforapps.com/</link><description>Recent content on CultForApps</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cultforapps.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Switching to calendar-based versioning</title><link>https://www.cultforapps.com/blog/2025.07.13_switching-to-calendar-based-versioning/</link><pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/blog/2025.07.13_switching-to-calendar-based-versioning/</guid><description>&lt;p&gt;For years, I used semantic versioning (1.0.0, 1.1.0, 2.0.0, ..etc.) as the default way to track app releases. It made sense: major for breaking changes, minor for new features, patch for fixes. But the more I built and shipped across my career at multiple companies and more recently as an indie developer, the more I found myself questioning what those numbers were really telling me, or anyone else.&lt;/p&gt;</description></item><item><title>Why I still choose native iOS development in 2025</title><link>https://www.cultforapps.com/blog/2025.04.03_why-native-ios-2025/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/blog/2025.04.03_why-native-ios-2025/</guid><description>&lt;p&gt;In 2025, native iOS development often feels like a deliberate choice rather than the default. With the rise of cross-platform tools like Flutter, React Native, and Kotlin Multiplatform, engineering teams are under increasing pressure to &amp;ldquo;build once, run everywhere.&amp;rdquo; And while that pitch has appeal especially from a business perspective, I continue to invest deeply in native iOS development and here’s why.&lt;/p&gt;</description></item><item><title>Elements</title><link>https://www.cultforapps.com/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/elements/</guid><description>&lt;details class="table-of-content "&gt;
+ &lt;summary&gt;
+ 
+ Table of Contents
+ 
+ &lt;/summary&gt;
+ &lt;nav id="TableOfContents"&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-2"&gt;Heading 2&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-3"&gt;Heading 3&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-4"&gt;Heading 4&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-5"&gt;Heading 5&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;li&gt;&lt;a href="#emphasis"&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#button"&gt;Button&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#link"&gt;Link&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#paragraph"&gt;Paragraph&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#ordered-list"&gt;Ordered List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#unordered-list"&gt;Unordered List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#notice"&gt;Notice&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#tab"&gt;Tab&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#accordions"&gt;Accordions&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#code-and-syntax-highlighting"&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#blockquote"&gt;Blockquote&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#tables"&gt;Tables&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#image"&gt;Image&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#gallery"&gt;Gallery&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#slider"&gt;Slider&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#youtube-video"&gt;Youtube video&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#custom-video"&gt;Custom video&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description></item><item><title>Elena Escalada</title><link>https://www.cultforapps.com/authors/elena-escalada/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/authors/elena-escalada/</guid><description>&lt;p style="margin-bottom: 20px;"&gt;
+Graphic Designer, with extensive experience in brand identity, user interface design, and digital visuals, combining creativity and functionality to craft impactful designs.
+&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://www.cultforapps.com/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/privacy-policy/</guid><description>&lt;h4 id="our-commitment-to-privacy"&gt;Our commitment to privacy&lt;/h4&gt;
+&lt;p&gt;At CultForApps, we take your privacy seriously. Unlike some companies that rely on selling user data, we firmly believe in protecting your information and will never engage in such practices.&lt;/p&gt;</description></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Tom Estelrich</title><link>https://www.cultforapps.com/authors/tom-estelrich/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.cultforapps.com/authors/tom-estelrich/</guid><description>&lt;p style="margin-bottom: 20px;"&gt;
+Software Engineer, based in Switzerland and specializing in Apple platforms, with a strong background in building high-performance applications and scalable solutions.
+&lt;/p&gt;</description></item><item><title>What Users Are Saying About Hugoplate</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
